@@ -22,7 +22,7 @@ Waveshaping function
 The definition of this function is done in DSP_functions.cpp.  
 
 #### Commands of the plug-in
-The plug-in has two knobs. 
+The plug-in has two knobs:
 
 * "Input gain", multiplies the input signal by a constant before applying the waveshaping function.
 * "Dry/Wet", allows to blend the output signal of the plug-in (wet signal) with the untouched input signal (dry signal).  
