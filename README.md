@@ -30,7 +30,7 @@ The plug-in has two knobs:
 #### How to build the plug-in:  
 * Install the Juce Projucer  
 * Set up a default project for an audio plug-in  
-* Replace the source code from the default project * with the source code from this repository  
+* Replace the source code from the default project with the source code from this repository  
 * Build the code to produce a VST3 plug-in  
 
 
