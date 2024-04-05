@@ -10,7 +10,7 @@ The sample n of the output signal out[n] is f(in[n]) with in[n] the sample n of 
 
 The definition of this function is done in DSP_functions.cpp.  
 
-The plug-in has two knobs. The first, "Input gain", multiply the input signal by a constant before applying the waveshaping function. The second, "Dry/Wet", allows to blend the output signal of the plug-in (wet signal) with the untouched input signal (wet signal).  
+The plug-in has two knobs. The first, "Input gain", multiplies the input signal by a constant before applying the waveshaping function. The second, "Dry/Wet", allows to blend the output signal of the plug-in (wet signal) with the untouched input signal (wet signal).  
 
 
 
