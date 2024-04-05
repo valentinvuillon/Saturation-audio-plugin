@@ -8,7 +8,7 @@ Here is a picture of the plug-in used in Ableton Live
 
 
 #### How the plug-in works:  
-The sample $n$ of the output signal out[n] is $f(in[n])$ with $in[n]$ the sample $n$ of the input signal and $f$ a waveshaping function which is a saturating function $f:  x\mapsto 
+The sample $n$ of the output signal $out[n]$ is $f(in[n])$ with $in[n]$ the sample $n$ of the input signal and $f$ a waveshaping function which is a saturating function $f:  x\mapsto 
  -1$ if $x\leqslant -1, 1.5x-0.5x^{3}$ if $-1 \lt x \lt 1 ,1$ if $x \geqslant 1$.  
  
 <p align="center">
