@@ -1,4 +1,4 @@
-Here is a picture of the plug-in used in Ableton Live:  
+#Here is a picture of the plug-in used in Ableton Live:  
 ![IMAGE!](pictures/picture1.png)  
 
 How the plug-in works:  
