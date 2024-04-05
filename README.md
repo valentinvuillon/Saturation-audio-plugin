@@ -6,7 +6,7 @@ Build the code, this should produce a VST3 plug-in
 
 
 How the plug-in works:  
-The sample n of the output signal out[n] is f(in[n]) with in[n] the sample n of the input signal and f a waveshaping function which is a saturatiing function. The function can be visualized here: https://www.desmos.com/calculator/afrb5jz5m8  
+The sample n of the output signal out[n] is f(in[n]) with in[n] the sample n of the input signal and f a waveshaping function which is a saturating function. The function can be visualized here: https://www.desmos.com/calculator/afrb5jz5m8  
 
 The definition of this function is done in DSP_functions.cpp.  
 
