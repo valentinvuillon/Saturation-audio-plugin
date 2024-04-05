@@ -25,7 +25,7 @@ The definition of this function is done in DSP_functions.cpp.
 The plug-in has two knobs. 
 
 * "Input gain", multiplies the input signal by a constant before applying the waveshaping function.
-* "Dry/Wet", allows to blend the output signal of the plug-in (wet signal) with the untouched input signal (wet signal).  
+* "Dry/Wet", allows to blend the output signal of the plug-in (wet signal) with the untouched input signal (dry signal).  
 
 #### How to build the plug-in:  
 * Install the Juce Projucer  
