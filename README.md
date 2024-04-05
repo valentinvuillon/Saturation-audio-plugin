@@ -12,7 +12,7 @@ The sample $n$ of the output signal out[n] is $f(in[n])$ with $in[n]$ the sample
  -1$ if $x\leqslant -1, 1.5x-0.5x^{3}$ if $-1 \lt x \lt 1 ,1$ if $x \geqslant 1$.  
  
 <p align="center">
-  <img width="400" height="400" src="pictures/picture2.png">
+  <img width="450" height="450" src="pictures/picture2.png">
 </p>
 <p align="center">
 Waveshaping function
