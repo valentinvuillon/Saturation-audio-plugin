@@ -15,7 +15,7 @@ The sample $n$ of the output signal $out[n]$ is $f(in[n])$ with $in[n]$ the samp
   <img width="450" height="450" src="pictures/picture2.png">
 </p>
 <p align="center">
-Waveshaping function in red, with the x\mapsto 
+Waveshaping function in red, with the $x\mapsto 
  x$ function in blue for comparison
 </p>
 
